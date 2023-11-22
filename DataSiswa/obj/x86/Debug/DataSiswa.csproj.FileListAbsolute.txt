@@ -1,0 +1,19 @@
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\bin\Debug\DataSiswa.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\bin\Debug\DataSiswa.pdb
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.FormDataSiswa.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.FormMain.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.Properties.Resources.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.csproj.GenerateResource.Cache
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\DataSiswa\obj\x86\Debug\DataSiswa.pdb
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.exe
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.pdb
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\bin\Debug\DataSiswa.exe
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\bin\Debug\DataSiswa.pdb
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.csprojResolveAssemblyReference.cache
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.FormDataSiswa.resources
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.FormMain.resources
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.Properties.Resources.resources
+E:\Lat Pemograman dasar c#\Data Siswa\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.csproj.GenerateResource.Cache
+D:\allfariz\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.exe
+D:\allfariz\DataSiswa\DataSiswa\obj\x86\Debug\DataSiswa.pdb
